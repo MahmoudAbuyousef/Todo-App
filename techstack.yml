@@ -1,0 +1,137 @@
+repo_name: MahmoudAbuyousef/Todo
+report_id: 9afc3d442d44159c5ab17e623b6ef061
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-19T17:18:00+00:00'
+requested_by: MahmoudAbuyousef
+provider: github
+branch: main
+detected_tools_count: 10
+tools:
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/MahmoudAbuyousef/Todo/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/MahmoudAbuyousef/Todo/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/MahmoudAbuyousef/Todo/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/MahmoudAbuyousef/Todo/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/MahmoudAbuyousef/Todo/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
+- name: method-override
+  description: Override HTTP verbs
+  package_url: https://www.npmjs.com/method-override
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16758/default_92482df1bcbe0d3a46cc1d597c9687a42da1cd04.png
+  detection_source_url: https://github.com/MahmoudAbuyousef/Todo/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: mahmoud
+  last_updated_on: 2023-06-02 09:43:03.000000000 Z
